@@ -187,7 +187,7 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
-    optimizeGameObjects: 0
+    optimizeGameObjects: 1
     motionNodeName: 
     animationImportErrors: 
     animationImportWarnings: "\nSource avatar hierarchy doesn't match one found in
@@ -224,7 +224,8 @@ ModelImporter:
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
-    extraExposedTransformPaths: []
+    extraExposedTransformPaths:
+    - Neo_Reference/Neo_Hips/Neo_Spine/Neo_Spine1
     clipAnimations: []
     isReadable: 0
   meshes:
