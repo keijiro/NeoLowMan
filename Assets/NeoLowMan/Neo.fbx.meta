@@ -224,8 +224,7 @@ ModelImporter:
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
-    extraExposedTransformPaths:
-    - Neo_Reference/Neo_Hips/Neo_Spine/Neo_Spine1
+    extraExposedTransformPaths: []
     clipAnimations: []
     isReadable: 0
   meshes:

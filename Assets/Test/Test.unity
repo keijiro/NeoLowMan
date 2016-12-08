@@ -90,10 +90,6 @@ NavMeshSettings:
     cellSize: 0.16666667
     manualCellSize: 0
   m_NavMeshData: {fileID: 0}
---- !u!4 &110973217 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 400116, guid: 6fa17527186bbd546b845faf6311064e, type: 3}
-  m_PrefabInternal: {fileID: 1917407820}
 --- !u!1 &117471717
 GameObject:
   m_ObjectHideFlags: 0
@@ -122,7 +118,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _interpolator: 2
-  _target: {fileID: 110973217}
+  _target: {fileID: 1838965911}
   _positionSpeed: 2
   _rotationSpeed: 0
   _jumpDistance: 1
@@ -440,6 +436,34 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
+--- !u!1 &1838965910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 1838965911}
+  m_Layer: 0
+  m_Name: Focus Point
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1838965911
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1838965910}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0012, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 2133211408}
+  m_RootOrder: 0
 --- !u!1001 &1917407820
 Prefab:
   m_ObjectHideFlags: 0
@@ -498,3 +522,7 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6fa17527186bbd546b845faf6311064e, type: 3}
   m_IsPrefabParent: 0
+--- !u!4 &2133211408 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400166, guid: 6fa17527186bbd546b845faf6311064e, type: 3}
+  m_PrefabInternal: {fileID: 1917407820}
