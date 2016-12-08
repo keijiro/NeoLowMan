@@ -6,6 +6,11 @@ NeoLowMan
 ![gif](http://66.media.tumblr.com/c4ede59148d245aa9e6b4608d21b35d3/tumblr_ogkvshCJKQ1qio469o2_320.gif)
 ![gif](http://66.media.tumblr.com/325ebdf94e8ea79a7fcf681321b53b76/tumblr_ogkvshCJKQ1qio469o3_320.gif)
 
+Download
+--------
+
+The unitypackage is available from [here](https://github.com/keijiro/NeoLowMan/raw/master/NeoLowMan.unitypackage).
+
 License
 -------
 
