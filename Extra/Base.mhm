@@ -1,0 +1,31 @@
+# Written by MakeHuman 1.1.0
+version v1.1.0
+tags NeoLowMan2
+camera 0.0 0.0 -0.174825836874 0.511327395667 0.192001682625 1.1625
+modifier breast/breast-trans-down|up 0.198000
+modifier macrodetails-universal/Muscle 0.517000
+modifier macrodetails/African 0.302500
+modifier macrodetails-proportions/BodyProportions 0.490000
+modifier breast/nipple-point-decr|incr 0.020000
+modifier macrodetails/Gender 0.490000
+modifier head/head-angle-in|out -0.278000
+modifier macrodetails-height/Height 0.599000
+modifier breast/BreastSize 0.000000
+modifier macrodetails/Age 0.510000
+modifier breast/BreastFirmness 0.000000
+modifier macrodetails/Asian 0.302500
+modifier breast/breast-point-decr|incr -0.306000
+modifier head/head-oval 0.095000
+modifier head/head-fat-decr|incr -0.360000
+modifier head/head-age-decr|incr -0.552000
+modifier macrodetails/Caucasian 0.395000
+modifier head/head-square 0.197000
+modifier breast/nipple-size-decr|incr -0.414000
+modifier breast/breast-dist-decr|incr -0.102000
+modifier macrodetails-universal/Weight 0.395000
+modifier breast/breast-volume-vert-down|up -0.688000
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
