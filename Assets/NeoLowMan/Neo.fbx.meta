@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 427d34d6970bfe74f99a26b6745ccbc5
-timeCreated: 1481899919
+timeCreated: 1482031187
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -82,7 +82,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 0
@@ -285,119 +285,119 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Reference
-      position: {x: 0.000000059604645, y: -0.0030736327, z: 0.12245454}
+      position: {x: -0.0000059127806, y: -0.003282249, z: 0.12968259}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Hips
-      position: {x: 0.0000000037252903, y: 0.95310605, z: -0.08893575}
-      rotation: {x: 0.51022434, y: -0.48956215, z: -0.51022434, w: 0.48956215}
-      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      position: {x: 0.000000023841856, y: 0.9469229, z: -0.09803119}
+      rotation: {x: 0.514734, y: -0.4848184, z: -0.514734, w: 0.4848184}
+      scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftUpLeg
-      position: {x: 0.031688556, y: 0.0031237311, z: 0.0881494}
-      rotation: {x: -1.7204752e-18, y: -8.324895e-17, z: 0.9997865, w: -0.020662216}
+      position: {x: 0.040893186, y: 0.004726813, z: 0.09148609}
+      rotation: {x: -0, y: 0, z: 0.9995527, w: -0.029907286}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftLeg
-      position: {x: -0.4215835, y: -4.1633363e-17, z: -0.000000052154064}
+      position: {x: -0.4066052, y: -0.00000010288717, z: 0.000000085830685}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Neo_LeftFoot
+      position: {x: -0.44307178, y: -0.00000011197301, z: 0.00000008583067}
+      rotation: {x: -0.00000018290748, y: 0.00000025019085, z: 0.59018934, w: 0.8072649}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neo_LeftToeBase
+      position: {x: -0.12445047, y: -9.436656e-10, z: 0.000000008691233}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
-    - name: Neo_LeftFoot
-      position: {x: -0.44316316, y: 0.0000000037252903, z: -0.000000044703484}
-      rotation: {x: -0.00000018213177, y: 0.00000025023598, z: 0.5884717, w: 0.8085179}
-      scale: {x: 1.0000001, y: 1, z: 1.0000001}
-      transformModified: 1
-    - name: Neo_LeftToeBase
-      position: {x: -0.1282032, y: -0.0000000046326507, z: -0.000000004851887}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1.0000001, y: 1, z: 1.0000001}
-      transformModified: 1
     - name: Neo_RightUpLeg
-      position: {x: 0.031688556, y: 0.0031237311, z: -0.0881494}
-      rotation: {x: -6.2533784e-10, y: 0.000000030252917, z: 0.020668294, w: 0.9997864}
+      position: {x: 0.040893186, y: 0.004726813, z: -0.09148608}
+      rotation: {x: -9.0349744e-10, y: 0.000000030245893, z: 0.029982578, w: 0.99955046}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_RightLeg
-      position: {x: 0.4215835, y: -0.0000000076314635, z: 0.00000008511836}
-      rotation: {x: 9.286856e-14, y: -0.00000004154904, z: -0.000004891235, w: 1}
-      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      position: {x: 0.4066052, y: -0.00000001004606, z: -0.000000042149956}
+      rotation: {x: -2.0322612e-13, y: -0.00000004154904, z: -0.000004891235, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
       transformModified: 1
     - name: Neo_RightFoot
-      position: {x: 0.4431631, y: 9.1262586e-10, z: 0.00000007940063}
-      rotation: {x: -0.000023451554, y: 0.000032238928, z: 0.58847076, w: 0.8085185}
+      position: {x: 0.44307184, y: -0.000000020713253, z: -0.000000048151225}
+      rotation: {x: -0.000023553679, y: 0.000032231466, z: 0.5901324, w: 0.80730647}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_RightToeBase
-      position: {x: 0.12820323, y: 0.000000006982838, z: -0.0000000011039629}
+      position: {x: 0.12445047, y: 0.0000000014492009, z: 0.000000007638004}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Spine
-      position: {x: -0.098645225, y: -6.30767e-10, z: 0}
-      rotation: {x: 8.3225216e-17, y: -2.6289884e-18, z: 0.031573113, w: 0.99950147}
-      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      position: {x: -0.0975585, y: 8.049232e-11, z: -2.1661274e-17}
+      rotation: {x: 0, y: 0, z: 0.036113307, w: 0.99934775}
+      scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Spine1
-      position: {x: -0.14937226, y: -0.0000000044918456, z: -1.5700153e-18}
-      rotation: {x: 8.308342e-17, y: -5.5221325e-18, z: 0.0032105967, w: 0.9999949}
+      position: {x: -0.17136289, y: 0.000000011315119, z: 0.000000005106558}
+      rotation: {x: 0, y: 0, z: 0.0014559262, w: 0.9999989}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Spine2
-      position: {x: -0.11542705, y: 0.0000000013060542, z: -1.3363798e-18}
-      rotation: {x: 8.306015e-17, y: -5.8616996e-18, z: 0.00087698747, w: 0.99999964}
+      position: {x: -0.13878137, y: 0.000000017048766, z: -3.4197903e-17}
+      rotation: {x: 0, y: 0, z: 0.0026228526, w: 0.9999966}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftShoulder
-      position: {x: -0.16723043, y: -0.014532142, z: 0.08127867}
-      rotation: {x: -0.4023163, y: 0.58149946, z: 0.5691682, w: 0.41958028}
-      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+      position: {x: -0.13279176, y: -0.01978109, z: 0.0889847}
+      rotation: {x: -0.4060247, y: 0.5789162, z: 0.5704466, w: 0.4178404}
+      scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftArm
-      position: {x: -0.10708076, y: 0.000000009972735, z: -0.0000000018626444}
-      rotation: {x: 0.69445115, y: -0.13318282, z: -0.13318282, w: 0.69445115}
-      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      position: {x: -0.11870083, y: -0.00000010170189, z: 0.00000000834465}
+      rotation: {x: 0.69243336, y: -0.1433041, z: -0.1433041, w: 0.6924334}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
       transformModified: 1
     - name: Neo_LeftForeArm
-      position: {x: -0.2516061, y: -0.000000009313225, z: 2.220446e-16}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
-      transformModified: 1
-    - name: Neo_LeftHand
-      position: {x: -0.28381586, y: -0.000000009313225, z: -2.220446e-16}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
-      transformModified: 1
-    - name: Neo_RightShoulder
-      position: {x: -0.16723043, y: -0.014532133, z: -0.08127869}
-      rotation: {x: 0.5814994, y: 0.40231636, z: -0.4195803, w: 0.5691682}
-      scale: {x: 0.99999994, y: 1, z: 1}
-      transformModified: 1
-    - name: Neo_RightArm
-      position: {x: 0.1070808, y: -0.000000009972738, z: -0.0000000037252903}
-      rotation: {x: 0.69445115, y: -0.13318282, z: -0.13318282, w: 0.69445115}
-      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
-      transformModified: 1
-    - name: Neo_RightForeArm
-      position: {x: 0.25160605, y: -0.000000014901159, z: 0}
+      position: {x: -0.24097936, y: 0.000000020265581, z: 8.5265126e-16}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
       transformModified: 1
+    - name: Neo_LeftHand
+      position: {x: -0.2732065, y: 0.000000022649767, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Neo_RightShoulder
+      position: {x: -0.13279176, y: -0.019781096, z: -0.0889847}
+      rotation: {x: 0.5789163, y: 0.4060247, z: -0.41784036, w: 0.57044655}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neo_RightArm
+      position: {x: 0.11870083, y: 0.00000010170189, z: 0.0000000023841857}
+      rotation: {x: 0.69243324, y: -0.14330453, z: -0.14330444, w: 0.69243336}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Neo_RightForeArm
+      position: {x: 0.24097924, y: -0.000000003576278, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
     - name: Neo_RightHand
-      position: {x: 0.28381598, y: -0.000000016763808, z: -0.000000105388985}
+      position: {x: 0.2732064, y: -0.000000003576278, z: 0.000000013303687}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
       transformModified: 1
     - name: Neo_Neck
-      position: {x: -0.21733707, y: 0.0000000140934375, z: -0.000000013337099}
-      rotation: {x: 8.308061e-17, y: 5.564258e-18, z: -0.13776667, w: 0.99046475}
-      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+      position: {x: -0.18629074, y: 0.0000000054149853, z: 5.820304e-13}
+      rotation: {x: 0, y: 0, z: -0.1815168, w: 0.9833879}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
       transformModified: 1
     - name: Neo_Head
-      position: {x: -0.1446446, y: -0.000000025254776, z: -0.000000006258106}
+      position: {x: -0.13223423, y: -0.000000013813483, z: -0.000000013861569}
       rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
       transformModified: 1
     armTwist: 0.5
     foreArmTwist: 0.5
