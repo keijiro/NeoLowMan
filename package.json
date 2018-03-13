@@ -1,0 +1,8 @@
+{
+    "name": "jp.keijiro.neolowman",
+    "displayName": "NeoLowMan",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "NeoLowMan is an yet another low-poly man model made for graphic testing.",
+    "dependencies": { }
+}

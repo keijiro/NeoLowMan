@@ -1,0 +1,10 @@
+{
+    "name": "JP.Keijiro.NeoLowMan.Editor",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
