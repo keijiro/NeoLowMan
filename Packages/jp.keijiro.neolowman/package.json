@@ -1,0 +1,12 @@
+{
+    "author": "Keijiro Takahashi",
+    "description": "An yet another low-poly man model made for graphic testing",
+    "displayName": "NeoLowMan",
+    "keywords": [ "unity" ],
+    "license": "Unlicense",
+    "name": "jp.keijiro.neolowman",
+    "repository": "github:keijiro/NeoLowMan",
+    "unity": "2018.1",
+    "unityRelease": "1f1",
+    "version": "1.0.0"
+}
