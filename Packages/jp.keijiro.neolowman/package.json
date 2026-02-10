@@ -1,12 +1,14 @@
 {
-    "author": "Keijiro Takahashi",
-    "description": "An yet another low-poly man model made for graphic testing",
-    "displayName": "NeoLowMan",
-    "keywords": [ "unity" ],
-    "license": "Unlicense",
-    "name": "jp.keijiro.neolowman",
-    "repository": "github:keijiro/NeoLowMan",
-    "unity": "2018.1",
-    "unityRelease": "1f1",
-    "version": "1.0.0"
+  "name": "jp.keijiro.neolowman",
+  "version": "1.0.1",
+  "displayName": "NeoLowMan",
+  "description": "Low-poly humanoid model created for graphics feature testing.",
+  "unity": "2022.3",
+  "author": "Keijiro Takahashi",
+  "dependencies": { },
+  "changelogUrl": "https://github.com/keijiro/NeoLowMan/blob/master/CHANGELOG.md",
+  "documentationUrl": "https://github.com/keijiro/NeoLowMan",
+  "licensesUrl": "https://github.com/keijiro/NeoLowMan/blob/master/LICENSE",
+  "license": "Unlicense",
+  "_upm": { "changelog": "<b>Added</b><br>- Added signing for Unity 6." }
 }
