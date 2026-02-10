@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jp.keijiro.neolowman": {
+      "version": "file:jp.keijiro.neolowman",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.unity.modules.animation": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    }
+  }
+}
